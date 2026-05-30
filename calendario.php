@@ -80,6 +80,7 @@ $citas_json = json_encode($citas);
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <title>Calendario - Clinica Veterinaria</title>
     <link href="fullcalendar/index.global.min.css" rel="stylesheet">
     <script src="fullcalendar/index.global.min.js"></script>

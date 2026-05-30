@@ -47,6 +47,7 @@ $res_historial = mysqli_query($conexion, "SELECT c.id_cita, c.fecha_hora AS fech
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <title>Ficha Cliente - Clinica Veterinaria</title>
     <link
         href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display&display=swap"

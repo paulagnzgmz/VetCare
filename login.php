@@ -46,6 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <title>Login - Clinica Veterinaria</title>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=DM+Serif+Display&display=swap"
         rel="stylesheet">

@@ -85,6 +85,7 @@ $clientes = mysqli_query($conexion, $sql_clientes);
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <title>Pacientes - Clinica Veterinaria</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.21/css/jquery.dataTables.min.css"
         rel="stylesheet">

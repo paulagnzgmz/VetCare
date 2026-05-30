@@ -88,6 +88,7 @@ $res_proximas = mysqli_query($conexion, $sql_proximas);
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <title><?php echo $paciente['nombre']; ?> - Ficha Paciente</title>
     <link
         href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display&display=swap"
